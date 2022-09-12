@@ -1,0 +1,9 @@
+.card {
+    border: 1px solid black;
+    max-width: 50ch; /* nu er visitkortet responsive og max 50ch characters bredt */
+    padding: 2rem;
+}
+h1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 1rem;
+}
