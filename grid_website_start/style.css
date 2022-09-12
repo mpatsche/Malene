@@ -1,0 +1,49 @@
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    padding: 1rem 15%;
+    background-color: rgb(232, 231, 231);
+}
+
+section {
+    background-color: white;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+#capetown {
+    background-color: lightgreen;
+}
+
+#london {
+    background-color: yellow;
+}
+
+#newyork {
+    background-color: violet;
+}
+
+#paris {
+    background-color: orange;
+}
+
+#hanoi {
+    background-color: greenyellow;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+
+/* Styling navigation */
+
+
+/* Styling the city cards */
